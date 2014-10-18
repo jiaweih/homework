@@ -1,4 +1,4 @@
-#Homework of Advanced Hydrology
+##Homework of Advanced Hydrology
 
 
 ###Hypothesis testing and trend analysis 
@@ -18,7 +18,7 @@
 [6]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/generation%20of%20flow/generation_of_flow.ipynb "Generation of annual streamflow"
 
 
-#Homework of Snow Hydrology
+##Homework of Snow Hydrology
 ### [Analysis of snow depth data][7]
 [7]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/SWE_assignment/Snow_Water_Equivalent%20(%20Homework%202).ipynb "Analysis of snow data"
 
@@ -28,7 +28,7 @@
 ### [Evaluation of longwave radiation algorithms][9]
 [9]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/project/final.ipynb "Evaluation of longwave radiation algorithms"
 
-#Homework of Remote Sensing
+##Homework of Remote Sensing
 ### [Establishing area versus elevation relationship for artificial reservoirs][10]
 [10]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/remote_sensing/area_vs_elevation/level_area_powell.ipynb "Establishing area versus elevation relationship for artificial reservoirs"
 ### [Extracting satellite precipitation data][11]

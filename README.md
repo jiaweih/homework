@@ -17,4 +17,4 @@
 
 ##Generation of flow
 * [Generation of annual streamflow][6]
-[6]: 
+[6]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/generation%20of%20flow/generation_of_flow.ipynb "Generation of annual streamflow"

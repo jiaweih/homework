@@ -14,7 +14,7 @@
 ### [Fitting flood distributions][5]
 [5]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/fitting%20distribution/fitting_flood_distributions.ipynb "Fitting flood distributions"
 
-### [Generating of annual streamflow][6]
+### [Generating annual streamflow][6]
 [6]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/generation%20of%20flow/generation_of_flow.ipynb "Generation of annual streamflow"
 
 

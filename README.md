@@ -19,7 +19,7 @@
 
 
 #Homework of Snow Hydrology
-### [Analysis of snow data][7]
+### [Analysis of snow depth data][7]
 [7]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/SWE_assignment/Snow_Water_Equivalent%20(%20Homework%202).ipynb "Analysis of snow data"
 
 ### [Analysis of radiation data][8]
@@ -27,3 +27,13 @@
 
 ### [Evaluation of longwave radiation algorithms][9]
 [9]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/project/final.ipynb "Evaluation of longwave radiation algorithms"
+
+#Homework of Remote Sensing
+### [Establishing area versus elevation relationship for artificial reservoirs][10]
+[10]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/remote_sensing/area_vs_elevation/level_area_powell.ipynb "Establishing area versus elevation relationship for artificial reservoirs"
+### [Extracting satellite precipitation data][11]
+[11]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/remote_sensing/project_1/project%201.ipynb "Extracting satellite precipitation data"
+### [Analyzing uncertainties in satellite-based precipitation estimates][12]
+[12]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/remote_sensing/project_2/project_2.ipynb "Analyzing uncertainties in satellite-based precipitation estimates"
+### [Analyzing streamflow and snow depth data][13]
+[13]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/remote_sensing/project_3/project_3.ipynb "Analyzing streamflow and snow depth data"

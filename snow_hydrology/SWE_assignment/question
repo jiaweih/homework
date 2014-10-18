@@ -1,0 +1,17 @@
+The two most-common ways to measure how much snow water equivalent, or SWE, is in the mountains are 1) to manually measure with across a snow coarse and 2) to weigh the snow with a snow pillow.  (These were discussed in class, see powerpoint, and are discussed in the NRCS pamphlet, USDA_SnowSurveys.pdf).
+
+ 
+
+Here, you are given the job of analyzing snow data for the Tuolumne River Watershed in Yosemite National Park, California.  Using matlab (available in the computer lab), load Tuolumne_snowmeas_1997_2007.mat (available under files).  (You can also download the excel file with the data in ascii format if you dislike matlab, but matlab’s plotting capabilities make this assignment much easier.)  This dataset has 11 years of snow data for two locations, Tuolumne Meadows (TUM) and Dana Meadows (DAN), shown on the map, (Fig. 1, shown on the pdf version).  Both locations have snow pillows (timeseries: tswe, in Matlab’s datnum format; and data:  DANswe and TUMswe, in mm of snow water equivalent).  The Dana Meadows location also has a snow course, (timeseries: tDanaSC, and data DanaSC, in mm of snow water equivalent).  The snow course is the average of 10 measurements taken in a line nearby, but not crossing the Dana snow pillow.
+
+ 
+
+1)      Create a timeseries plot (use matlab’s plot command) of SWE at Dana, using a line for the snow pillow measurements, and stars ‘k*’ for the snow course measurements. (Use ‘hold on’ to keep both on the same plot.)  Be sure to label your axes and create a legend.  (Use the ‘datetick’ command to make the plot show Matlab date numbers as actual dates.)
+
+2)      These two measurements are taken at essentially the same place, yet they don’t report the same numbers.  Please comment on why you think they are different, and how much you trust the two measurements.  If your boss wanted one authoritative number for the SWE in Dana Meadows on 1 May 2005, what number would you give him/her and why.
+
+3)      Now add the timeseries from Tuolumne Meadows to your plot (be sure to update your legend to label this as well).  Tuolumne Meadows is about 10 miles away from Dana Meadows and is about 1000 ft lower in elevation (see map).  Both get all of their winter precipitation in the form of snow (so all winter precipitation is snow and not rain).  How does the SWE at Tuolumne compare to that at Dana?  Why do you think this is?
+
+4)      Assume the Dana snow pillow broke one year.  Explain how you would use the Tuolumne snow pillow to fill in the missing record at the Dana snow pillow.
+
+5)      You have a graph with 3 near-by measurements over 11 years.  I can demonstrate that in one of these years, one of these measurements was broken (AKA, very biased).  Which year, and which of the three measurements, do you think is the very wrong one?  Explain why you chose this one.  If you’re not sure, describe what other measurements you might look at or tests you might conduct to help you make your choice.

@@ -1,0 +1,43 @@
+Many studies have cited radiation as the most important contributor to snowmelt (e.g. Marks and
+Dozier 1982). However, as we discussed in class, radiation is hard to measure in snowy
+environments.
+
+We’re getting ready to run an energy-balance-based snow model, and we need to select input
+values for that model. For this homework, we will return to Dana Meadows and to the
+Tuolumne River Watershed in Yosemite National Park, California. In this location, we have an
+assortment of shortwave sensors (pyranometers) and no longwave sensors (pyrgeometers). For
+this assignment, we will plot data from the in situ shortwave sensors at Tuolumne and Dana
+Meadows (co-located with the snow pillows we just analyzed) and from a nationally available
+product from the North American Land Data Assimilation System (NLDAS) that is available
+anywhere in the continental U.S. (see Cosgrove et al. 2003 and the README.NLDAS2.pdf
+under files for more information). We will focus on calendar year 2003. (Note that water year
+2003 is October 1, 2002 to September 30, 2003, so that we would start and end with no snow.)
+Load radiation_data_HW3.mat into Matlab. The variables are timeSW (hourly timeseries, in
+matlab datevec format), SW_TUM (hourly shortwave measured at Tuolumne Meadows),
+SW_DAN (hourly shortwave measured at Dana Meadows), and SW_NLDAS (hourly shortwave
+for the 1/8th-degree grid-cell that includes Dana and Tuolumne). All of the shortwave units are
+in Watts per meter squared (W m-2). Again, you can look at this in excel (and staring at the table
+of numbers may be helpful), but I highly recommend plotting in matlab because you can use
+interactive plotting gui to zoom in and look at specific dates easily.
+1) Plot all three timeseries, using different linetypes, and label your graph. Create
+scatterplots of one measurement against another (figure;
+plot(SW_TUM,SW_DAN,’k*’)). Comment on how these measurements compare
+overall.
+2) Now let’s look in detail a few periods. First, March 3 to 5, 2003. If you have your graph
+open in matlab, you can type:
+axis([datenum(2003,3,3) datenum(2003,3,6) 0 inf])
+Print a copy of this zoomed in graph (or rather, save to jpeg or png format and add to
+your homework document).
+What do you think is going on here? Are all of the measurements to be trusted? Which
+do you think is most reliable and why?
+3) Now, July 22 to 25, 2003.
+What do you think is going on here? Are all of the measurements to be trusted? Which
+do you think is most reliable and why?
+4) Shading by surrounding terrain (either mountains or tall trees) at certain times of day is a
+common problem for radiometers placed in the mountains. Can you find evidence of
+local shading in the Tuolumne and Dana records? Provide a graph and explain why you
+think this is evidence of shading. Which of these two instruments do you think is more
+influenced by local shading?
+5) Your boss wants you to provide an authoritative, “most-correct,” timeseries of shortwave
+irradiance to use in your snow model. Which of the three provided here would you pick?
+Or, would you combine them in some way? Explain why.

@@ -19,16 +19,15 @@
 [6]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/generation%20of%20flow/generation_of_flow.ipynb "Generation of annual streamflow"
 
 ## Homework of Precipitation
-### [Lapse Rates][14]
+### [Lapse rates][14]
 [14]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/lapse_rate.ipynb "Lapse Rates"
 
-### [Radar Precipitation][15]
+### [Radar precipitation][15]
 [15]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radar.ipynb "Radar Precipitation"
 
-### [WGR Model][16]
+### [WGR model][16]
 [16]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb "WGR Model"
 
-### [PDF](https://github.com/jiaweih/homework/raw/master/precipitation/RadarPrecipitation.pdf)
 ##Homework of Snow Hydrology
 ### [Analysis of snow depth data][7]
 [7]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/SWE_assignment/Snow_Water_Equivalent%20(%20Homework%202).ipynb "Analysis of snow data"

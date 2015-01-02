@@ -28,6 +28,7 @@
 ### [WGR Model][16]
 [16]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb "WGR Model"
 
+### [PDF](https://github.com/jiaweih/homework/raw/master/precipitation/RadarPrecipitation.pdf)
 ##Homework of Snow Hydrology
 ### [Analysis of snow depth data][7]
 [7]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/SWE_assignment/Snow_Water_Equivalent%20(%20Homework%202).ipynb "Analysis of snow data"

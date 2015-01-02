@@ -11,12 +11,22 @@
 [3]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question3.ipynb "Question3"
 [4]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question4.ipynb "Question4"
 
+
 ### [Fitting flood distributions][5]
 [5]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/fitting%20distribution/fitting_flood_distributions.ipynb "Fitting flood distributions"
 
 ### [Generating annual streamflow][6]
 [6]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/generation%20of%20flow/generation_of_flow.ipynb "Generation of annual streamflow"
 
+## Homework of Precipitation
+### [Lapse Rates][14]
+[14]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/lapse_rate.ipynb "Lapse Rates"
+
+### [Radar Precipitation][15]
+[15]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radar.ipynb "Radar Precipitation"
+
+### [WGR Model][16]
+[16]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb "WGR Model"
 
 ##Homework of Snow Hydrology
 ### [Analysis of snow depth data][7]

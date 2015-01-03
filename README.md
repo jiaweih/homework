@@ -11,7 +11,6 @@
 [3]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question3.ipynb "Question3"
 [4]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question4.ipynb "Question4"
 
-
 ### [Fitting flood distributions][5]
 [5]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/fitting%20distribution/fitting_flood_distributions.ipynb "Fitting flood distributions"
 
@@ -20,7 +19,9 @@
 
 ## Homework of Precipitation
 ### [Lapse rates][14]
-[14]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/lapse_rate.ipynb "Lapse Rates"
+
+* [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/lapse_rate.ipynb)
+* [Report]()
 
 ### [Radar precipitation][15]
 [15]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radar.ipynb "Radar Precipitation"

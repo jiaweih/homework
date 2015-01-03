@@ -23,11 +23,14 @@
 * [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/lapse_rate.ipynb)
 * [Report](https://github.com/jiaweih/homework/raw/master/precipitation/LapseRate.pdf)
 
-### [Radar precipitation][15]
-[15]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radar.ipynb "Radar Precipitation"
+### Radar precipitation
 
-### [WGR model][16]
-[16]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb "WGR Model"
+* [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radar.ipynb)
+* [Report](https://github.com/jiaweih/homework/raw/master/precipitation/RadarPrecipitation.pdf)
+
+### WGR model
+* [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb)
+* [Report](https://github.com/jiaweih/homework/raw/master/precipitation/WGR.pdf)
 
 ##Homework of Snow Hydrology
 ### [Analysis of snow depth data][7]

@@ -28,6 +28,11 @@
 * [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radar.ipynb)
 * [Report](https://github.com/jiaweih/homework/raw/master/precipitation/RadarPrecipitation.pdf)
 
+### Radiation
+
+* [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/radiation_Niwot.ipynb)
+* [Report](https://github.com/jiaweih/homework/raw/master/precipitation/Radiation.pdf)
+* 
 ### WGR model
 * [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb)
 * [Report](https://github.com/jiaweih/homework/raw/master/precipitation/WGR.pdf)

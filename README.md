@@ -6,10 +6,11 @@
 * [Question 2][2]
 * [Question 3][3]
 * [Question 4][4]
-[1]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question1.ipynb "Question1"
-[2]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question2.ipynb "Question2"
-[3]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question3.ipynb "Question3"
-[4]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question4.ipynb "Question4"
+
+[1]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question1.ipynb "Question 1"
+[2]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question2.ipynb "Question 2"
+[3]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question3.ipynb "Question 3"
+[4]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/hypothesis%20testing%20&%20trend%20analysis/question4.ipynb "Question 4"
 
 ### [Fitting flood distributions][5]
 [5]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/advanced_hydrology/fitting%20distribution/fitting_flood_distributions.ipynb "Fitting flood distributions"
@@ -37,7 +38,7 @@
 * [Notebook](http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/precipitation/wgr.ipynb)
 * [Report](https://github.com/jiaweih/homework/raw/master/precipitation/WGR.pdf)
 
-##Homework of Snow Hydrology
+## Homework of Snow Hydrology
 ### [Analysis of snow depth data][7]
 [7]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/SWE_assignment/Snow_Water_Equivalent%20(%20Homework%202).ipynb "Analysis of snow data"
 
@@ -47,7 +48,7 @@
 ### [Evaluation of longwave radiation algorithms][9]
 [9]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/snow_hydrology/project/final.ipynb "Evaluation of longwave radiation algorithms"
 
-##Homework of Remote Sensing
+## Homework of Remote Sensing
 ### [Establishing area versus elevation relationship for artificial reservoirs][10]
 [10]: http://nbviewer.ipython.org/github/jiaweih/homework/blob/master/remote_sensing/area_vs_elevation/level_area_powell.ipynb "Establishing area versus elevation relationship for artificial reservoirs"
 ### [Extracting satellite precipitation data][11]
